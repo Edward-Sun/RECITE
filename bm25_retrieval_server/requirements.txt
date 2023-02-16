@@ -1,0 +1,2 @@
+pyserini>=0.19
+flask>=2.0.1
