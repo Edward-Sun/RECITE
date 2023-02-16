@@ -117,3 +117,18 @@ python -u codex_experiments/run_hotpot_qa.py \
   --batch_size 1 \
   --verbose
 ```
+
+## Reference
+
+If you found this codebase useful, please consider citing the paper:
+
+```
+@inproceedings{
+    sun2023recitationaugmented,
+    title={Recitation-Augmented Language Models},
+    author={Zhiqing Sun and Xuezhi Wang and Yi Tay and Yiming Yang and Denny Zhou},
+    booktitle={International Conference on Learning Representations},
+    year={2023},
+    url={https://openreview.net/forum?id=-cqvvvb-NkI}
+}
+```
