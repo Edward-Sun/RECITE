@@ -2,7 +2,9 @@
 
 See ["Recitation-Augmented Language Models"](https://openreview.net/forum?id=-cqvvvb-NkI) (ICLR 2023) for the paper associated with this codebase.
 
-![Alt text](recite_illustration.png?raw=true "RECITE Illustration")
+<p align="center">
+  <img src="https://github.com/Edward-Sun/RECITE/blob/main/recite_illustration.png?raw=true" alt="RECITE Illustration"/>
+</p>
 
 ## Setup
 
