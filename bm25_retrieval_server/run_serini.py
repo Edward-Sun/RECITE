@@ -28,7 +28,7 @@ if __name__ == "__main__":
     @app.route('/', methods=["GET"])
     def health_check():
         """Confirms service is running"""
-        return f"OPT service '{args.model}' is up and running.\n"
+        return f"BM25 service '{args.model}' is up and running.\n"
 
     @app.route('/batch_size', methods=["GET"])
     def get_batch_size():
